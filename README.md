@@ -55,13 +55,5 @@ This roadmap combines **core data engineering skills, cloud, DevOps, and AI inte
 - MLflow (Databricks)  
 
 ---
-
-## 🛠️ Next Steps
-1. First pass → quick overview of all topics  
-2. Second pass → deep dive + projects  
-3. Focus on **Databricks + Azure (DP-203)** for hands-on specialization  
-
----
-
 ## ⭐ Contribute
 If you find this roadmap useful, give it a ⭐ on GitHub and share your feedback!  
