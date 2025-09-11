@@ -1,4 +1,4 @@
-# 🚀 Data Engineering Roadmap
+# Data Engineering Roadmap
 
 A structured learning path to become a **Data Engineer**, with topics, resources, and hands-on projects.  
 This roadmap combines **core data engineering skills, cloud, DevOps, and AI integration**.
